@@ -1,4 +1,4 @@
-# M. ulcerans P7741 – Draft assembly and comparative gene‑content analysis
+# *M. ulcerans* P7741: Draft assembly and comparative gene‑content analysis
 
 A two‑genome comparison between *Mycobacterium ulcerans* P7741 and the reference strain Agy99.
 
